@@ -26,3 +26,4 @@ Contents
    freedom RESTful api
    freedom message channel
    freedom pass server
+   testing
