@@ -18,6 +18,5 @@ Contents
 
 .. toctree::
  :numbered:
-
    introduction
    getting started
