@@ -2,6 +2,7 @@ Introduction
 ============
 
 High level introductory section that covers:
+
 * Definition of a task
 * High level architecture (cloud-based platform connected to a federated network)
 * Define federated network and explain how schedule/time is shared across the network and this requires a smart scheduler
