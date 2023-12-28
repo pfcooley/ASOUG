@@ -25,3 +25,4 @@ Contents
    client api
    freedom RESTful api
    freedom message channel
+   freedom pass server
