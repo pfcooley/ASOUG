@@ -17,6 +17,7 @@ Contents
 --------
 
 .. toctree::
+ :numbered:
 
    introduction
-   api
+   getting started
