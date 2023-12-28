@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the ATLAS Satellite Operator User Guide!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -27,3 +27,6 @@ Contents
    freedom message channel
    freedom pass server
    testing
+   test to production
+   software release policy
+   glossary of terms
