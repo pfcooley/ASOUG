@@ -23,3 +23,4 @@ Contents
    getting started
    technologies
    client api
+   freedom RESTful api
