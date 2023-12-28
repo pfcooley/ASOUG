@@ -22,3 +22,4 @@ Contents
    introduction
    getting started
    technologies
+   client api
