@@ -24,3 +24,4 @@ Contents
    technologies
    client api
    freedom RESTful api
+   freedom message channel
