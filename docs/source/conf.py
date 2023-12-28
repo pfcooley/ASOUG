@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'ATLAS Satellite Operator User Guide'
+project = 'ATLAS'
 copyright = '2023, ATLAS'
 author = 'ATLAS'
 
